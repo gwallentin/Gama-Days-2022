@@ -1,0 +1,8 @@
+---
+permalink: /challenge/
+title: "Challenge"
+---
+
+Agent-based modeling is nowadays becoming increasingly popular for the study of complex systems. Nevertheless, its use requires significant computer programming work because it requires describing all agents and their behavior in the form of algorithms. The GAMA open-source platform aims to help modelers do this work. This generic platform, which has been developed since 2007 by a consortium of research teams allows the content of a model to be built using a modeling language that is easy to access and simulated. GAMA has experienced significant growth in recent years thanks to its ability to build and simulate large-scale models, including hundreds of thousands of agents and detailed geographic data. It also has advanced 3D visualization tools as well as tools dedicated to the construction of serious games. This platform is now used in many research projects dealing with issues as varied as epidemiology, land-use change, natural or technological risks, natural resource management, and urban mobility.
+
+However, while many training courses on this platform are organized around the world every year, no event has ever had the ambition to bring users and developers together in the same place. This is precisely the objective of the GAMA days, which will be held from June 23 to 25. The challenge is to encourage exchanges between participants: to allow platform (or plug-in) developers to present their latest creations and to allow users to show how they use the platform. These exchanges will be an important step towards a better structuring of the GAMA community.

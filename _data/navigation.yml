@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Challenge"
+    url: /challenge/
+  - title: "Submissions"
+    url: /submissions/
+  - title: "Committees"
+    url: /committees/
   - title: "About"
     url: /about/
