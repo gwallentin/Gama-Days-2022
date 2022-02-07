@@ -5,7 +5,9 @@ main:
     url: /challenge/
   - title: "Submissions"
     url: /submissions/
+  #- title: "Program"
+  #  url: /program/
+  #- title: "Registration"
+  #  url: /registration/
   - title: "Committees"
     url: /committees/
-  - title: "About"
-    url: /about/
