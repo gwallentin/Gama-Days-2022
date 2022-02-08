@@ -1,5 +1,5 @@
 ---
-permalink: /special issue/
+permalink: /special_issue/
 title: "Special issue"
 ---
 
