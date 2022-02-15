@@ -5,8 +5,8 @@ main:
     url: /challenge/
   - title: "Submissions"
     url: /submissions/
-  - title: "Special issue"
-    url: /issue/
+  - title: "Open fora"
+    url: /openfora/
   #- title: "Program"
   #  url: /program/
   - title: "Registration"
