@@ -13,7 +13,7 @@ GAMA Days 2022 seeks submissions of contributions presenting models or new featu
 ## Important dates
 
 - CFP: XXXX XX, 2022 ([can be downloaded here]())
-- Submission Deadline: XXXX XX, 2022
+- Submission Deadline: **19^th^ May, 2022**
 - Notification of Acceptance: XXXX XX, 2022
 - Conference: XXXX XX, 2022
 
